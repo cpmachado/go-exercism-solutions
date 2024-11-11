@@ -1,2 +1,4 @@
 */*.md
 .exercism
+# I don't own tests
+*_test.go
